@@ -6,8 +6,8 @@
         <class>org.projects.veterinaria.entity.Pet</class>
         <properties>
             <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/veterinaria"/>
-            <property name="jakarta.persistence.jdbc.user" value="raul"/>
-            <property name="jakarta.persistence.jdbc.password" value="raulex440"/>
+            <property name="jakarta.persistence.jdbc.user" value="DBUSER"/>
+            <property name="jakarta.persistence.jdbc.password" value="DBPASS"/>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
 
             <property name="hibernate.show_sql" value="true"/>
